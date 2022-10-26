@@ -12,7 +12,7 @@
  * Description: WP CLI Commands to support sites using cata parent theme.
  * Author:      Thought & Expression Co. <devjobs@thought.is>
  * Author URI:  https://thought.is
- * Version:     0.1.0
+ * Version:     0.2.0
  * License:     GPL v3 or later
  * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
  */
