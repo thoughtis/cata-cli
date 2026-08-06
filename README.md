@@ -9,10 +9,6 @@ WP-CLI commands to support sites using the Cata parent theme. Currently focused 
 
 Commands are only registered when running under WP-CLI.
 
-## Installation
-
-Place this directory in `wp-content/plugins/` and activate the plugin.
-
 ## Common options
 
 Both commands accept:
